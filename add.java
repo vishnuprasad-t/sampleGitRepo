@@ -5,7 +5,7 @@ public class add {
 
 	public void adding (int a, int b) {
 		sum = a+b;
-		System.out.println("Sum of "+a+" and "+b+ " is "+sum);
+		System.out.println("Sum of "+a+" and "+b+ " is ="+sum);
 	}
 
 
